@@ -4,8 +4,8 @@ Projeto da disciplina **Desenvolvimento de Sistemas Distribuídos**. A solução
 
 ## Integrantes
 
-| Nome completo                  | Turma  |    RA    | Repositório GitHub |
-| Arthur Gomes Rodrigues de Lima | CC8Q13 | N284GB-8 | https://github.com/SEU_USUARIO
+| Nome completo                  | Turma  |    RA    | Repositório GitHub 
+| Arthur Gomes Rodrigues de Lima | CC8Q13 | N284GB-8 | https://github.com/ArthurR06/APIPedidos---Sistemas-Distribuidos
 | Joice Oliveira Jardim          | CC8Q13 | N284DJ-1 | https://github.com/USUARIO_JOICE
 
 ## Arquitetura
